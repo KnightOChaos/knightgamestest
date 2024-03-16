@@ -1,0 +1,1944 @@
+
+Theme name: Unblocked Games Template
+Theme data:
+button_component {
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+divider_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+image_carousel_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+navigation_component {
+  property_set {
+    side_selection_style: SIDE_BOLD
+    top_nav_separator: NONE
+    top_selection_style: TOP_BOLD
+    transparent_at_top: true
+  }
+}
+scheme_color_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+section_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    background_color {
+      red: 0.007843138
+      green: 0.07450981
+      blue: 0.24313726
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    background_color {
+      red: 0.09411765
+      green: 0.16470589
+      blue: 0.4117647
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    background_color {
+      red: 0.12941177
+      green: 0.15294118
+      blue: 0.23529412
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+site_component {
+  property_set {
+    primary_color {
+      red: 0.007843138
+      green: 0.07450981
+      blue: 0.24313726
+      alpha {
+        value: 1.0
+      }
+    }
+    header_background {
+      resource_id: "1vgg23KYRr52WPpiFViURGk-nT6zWebnt-CUANlc0wkVI2D5xjg"
+      image_rotation: 0
+      overlay_color_style: "DARK"
+      overlay_color_opacity: 0.0
+      anchor: "center center"
+    }
+  }
+}
+text_component {
+  heading_style {
+    heading: 0
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 12.0
+    }
+    text_style {
+      font_size: 12.0
+      foreground {
+        scheme: 0
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+  heading_style {
+    heading: 1
+    paragraph_style {
+      ltr: true
+      spacing_before: 34.0
+    }
+    text_style {
+      bold: true
+      foreground {
+        scheme: 4
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 2
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 18.0
+    }
+    text_style {
+      bold: true
+      font_size: 18.0
+      foreground {
+        scheme: 5
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 3
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 14.0
+    }
+    text_style {
+      bold: true
+      font_size: 14.0
+      foreground {
+        scheme: 6
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 102
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 8.0
+    }
+    text_style {
+      font_size: 8.0
+      foreground {
+        scheme: 2
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+}
+name: "Unblocked Games Template"
+id: "5d110e4a3121de4e_9"
+spacing_component {
+  property_set {
+    frame_selected: false
+  }
+}
+
+----------------------------------------------------
+
+Theme name: CyberPunk Central
+Theme data:
+button_component {
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+divider_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+image_carousel_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+navigation_component {
+  property_set {
+    side_selection_style: SIDE_BOLD
+    top_nav_separator: NONE
+    top_selection_style: TOP_BOLD
+    transparent_at_top: true
+  }
+}
+scheme_color_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    accent1 {
+      red: 0.8
+      green: 0.8
+      blue: 0.8
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.8
+      green: 0.8
+      blue: 0.8
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.8
+      green: 0.8
+      blue: 0.8
+      alpha {
+        value: 1.0
+      }
+    }
+    dark1 {
+      red: 0.8
+      green: 0.8
+      blue: 0.8
+      alpha {
+        value: 1.0
+      }
+    }
+    dark2 {
+      red: 0.8
+      green: 0.8
+      blue: 0.8
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+section_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    background_color {
+      red: 0.007843138
+      green: 0.07450981
+      blue: 0.24313726
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    background_color {
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    background_color {
+      red: 0.12941177
+      green: 0.15294118
+      blue: 0.23529412
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+site_component {
+  property_set {
+    primary_color {
+      alpha {
+        value: 1.0
+      }
+    }
+    header_background {
+      resource_id: "1KRWLSjocMPfxa7FlcyTx6vDTF0-H8YW_v4BCjoO_Qyendgsc8w"
+      image_rotation: 0
+      overlay_color_style: "DARK"
+      overlay_color_opacity: 0.0
+      anchor: "center center"
+    }
+    unsafe_favicon_image {
+      resource_id: "1P1geOKfKRKxtO8u3v71UQe_178F6Y3EcT9VI7LUEAOefAFpVUA"
+      size: 1000
+    }
+    unsafe_logo_image {
+      resource_id: "164lxx597zjoJ5cFx9VogDmLC_dbYKi57DEgB2gzjOTtBBeGi3w"
+    }
+  }
+}
+text_component {
+  heading_style {
+    heading: 0
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 12.0
+    }
+    text_style {
+      font_size: 12.0
+      foreground {
+        scheme: 0
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+  heading_style {
+    heading: 1
+    paragraph_style {
+      ltr: true
+      spacing_before: 34.0
+    }
+    text_style {
+      bold: true
+      foreground {
+        scheme: 4
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 2
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 18.0
+    }
+    text_style {
+      bold: true
+      font_size: 18.0
+      foreground {
+        scheme: 5
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 3
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 14.0
+    }
+    text_style {
+      bold: true
+      font_size: 14.0
+      foreground {
+        scheme: 6
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 102
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 8.0
+    }
+    text_style {
+      font_size: 8.0
+      foreground {
+        scheme: 2
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+}
+name: "CyberPunk Central"
+id: "7d9ae259ebe43bf7_0"
+spacing_component {
+  property_set {
+    frame_selected: false
+  }
+}
+
+----------------------------------------------------
+
+Theme name: CPC
+Theme data:
+button_component {
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+divider_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+image_carousel_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+navigation_component {
+  property_set {
+    side_selection_style: SIDE_BOLD
+    top_nav_separator: NONE
+    top_selection_style: TOP_BOLD
+    transparent_at_top: true
+  }
+}
+scheme_color_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+section_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    background_color {
+      red: 0.03137255
+      green: 0.05882353
+      blue: 0.07450981
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    background_color {
+      red: 0.11764706
+      green: 0.13725491
+      blue: 0.15686275
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+  }
+}
+site_component {
+  property_set {
+    primary_color {
+      red: 0.40392157
+      green: 0.30588236
+      blue: 0.654902
+      alpha {
+        value: 1.0
+      }
+    }
+    header_background {
+      resource_id: "1YA1wqNRTmFPR5oE-7k_KwdHlFtWxnhXo9aIBc0zh0iS6uRLTlg"
+      image_rotation: 0
+      overlay_color_style: "DARK"
+      overlay_color_opacity: 0.0
+      anchor: "center center"
+    }
+    unsafe_logo_image {
+      resource_id: "1d4D8upnyIvSv7KyGfpek1TzEd54vwI7NFAAA1gZad3DIMmTJxQ"
+    }
+  }
+}
+text_component {
+  heading_style {
+    heading: 0
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 12.0
+    }
+    text_style {
+      font_size: 12.0
+      foreground {
+        scheme: 0
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+  heading_style {
+    heading: 1
+    paragraph_style {
+      ltr: true
+      spacing_before: 34.0
+    }
+    text_style {
+      bold: true
+      foreground {
+        scheme: 4
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 2
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 18.0
+    }
+    text_style {
+      bold: true
+      font_size: 18.0
+      foreground {
+        scheme: 5
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 3
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 14.0
+    }
+    text_style {
+      bold: true
+      font_size: 14.0
+      foreground {
+        scheme: 6
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 102
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 8.0
+    }
+    text_style {
+      font_size: 8.0
+      foreground {
+        scheme: 2
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+}
+name: "CPC"
+id: "7d9ae259ebe43bf7_1"
+spacing_component {
+  property_set {
+    frame_selected: false
+  }
+}
+
+----------------------------------------------------
+
+Theme name: The Palace
+Theme data:
+button_component {
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "filled"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: REGULAR
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "text"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+      button_style: "outlined"
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+divider_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+image_carousel_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    active_dot_color {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+navigation_component {
+  property_set {
+    side_selection_style: SIDE_BOLD
+    top_nav_separator: NONE
+    top_selection_style: TOP_BOLD
+    transparent_at_top: true
+  }
+}
+scheme_color_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    accent1 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent2 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    accent3 {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+    link {
+      red: 0.9764706
+      green: 0.9764706
+      blue: 0.9764706
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+section_component {
+  property_set {
+    key {
+      section_style: REGULAR
+    }
+    background_color {
+      red: 0.007843138
+      green: 0.07450981
+      blue: 0.24313726
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_1
+    }
+    background_color {
+      red: 0.09411765
+      green: 0.16470589
+      blue: 0.4117647
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+  property_set {
+    key {
+      section_style: EMPHASIS_2
+    }
+    background_color {
+      red: 0.12941177
+      green: 0.15294118
+      blue: 0.23529412
+      alpha {
+        value: 1.0
+      }
+    }
+  }
+}
+site_component {
+  property_set {
+    primary_color {
+      red: 0.007843138
+      green: 0.07450981
+      blue: 0.24313726
+      alpha {
+        value: 1.0
+      }
+    }
+    header_background {
+      resource_id: "1vsw0Wkp69U25KEta0nLXUf_5lfboDler7JBvi2Pkay-BZr041w"
+      image_rotation: 0
+      overlay_color_style: "DARK"
+      overlay_color_opacity: 0.0
+      anchor: "top center"
+    }
+    unsafe_favicon_image {
+      resource_id: "1dgGrgQKY1uB3DfBPwUQTEK7R2BioO7R7spBIdc2M52jsJ_l3PQ"
+      size: 500
+    }
+    unsafe_logo_image {
+      resource_id: "1phLixpwa7ZAsX7sL7fXh5cEjFRh9WLuCvAERlz6pjkx9ObIelg"
+      alt_text: ""
+    }
+  }
+}
+text_component {
+  heading_style {
+    heading: 0
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 12.0
+    }
+    text_style {
+      font_size: 12.0
+      foreground {
+        scheme: 0
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+  heading_style {
+    heading: 1
+    paragraph_style {
+      ltr: true
+      spacing_before: 34.0
+    }
+    text_style {
+      bold: true
+      foreground {
+        scheme: 4
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 2
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 18.0
+    }
+    text_style {
+      bold: true
+      font_size: 18.0
+      foreground {
+        scheme: 5
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 3
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 14.0
+    }
+    text_style {
+      bold: true
+      font_size: 14.0
+      foreground {
+        scheme: 6
+      }
+      weighted_font_family: "Impact"
+    }
+  }
+  heading_style {
+    heading: 102
+    paragraph_style {
+      line_spacing: 1.25
+      ltr: true
+      spacing_before: 8.0
+    }
+    text_style {
+      font_size: 8.0
+      foreground {
+        scheme: 2
+      }
+      weighted_font_family: "Roboto"
+    }
+  }
+}
+name: "The Palace"
+id: "a84f5da06e07ecf_0"
+spacing_component {
+  property_set {
+    frame_selected: false
+  }
+}
+
+----------------------------------------------------
